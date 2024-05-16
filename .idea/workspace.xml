@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50586e1c-a18e-4c4e-bb3b-038f1bf2f3c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CC/GONZALEZ_Simon_CC.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP07.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TP07.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP08/insertion_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TP08/insertion_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP08/table_contraintes.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TP08/table_contraintes.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP09/compet-creerEnv.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TP09/compet-creerEnv.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP09/select.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TP09/select.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_projet.sql" beforeDir="false" afterPath="$PROJECT_DIR$/mini_projet.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fljLxBQboNExqlzmHLOfQSQPfb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/sgonzalez/kDrive/Cours/62-21 Gestion des données/Exercises/HEG_DB",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
