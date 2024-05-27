@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50586e1c-a18e-4c4e-bb3b-038f1bf2f3c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CC/GONZALEZ_Simon_CC.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP07.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TP07.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP08/insertion_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TP08/insertion_data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP08/table_contraintes.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TP08/table_contraintes.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP09/compet-creerEnv.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TP09/compet-creerEnv.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP09/select.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TP09/select.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini_projet.sql" beforeDir="false" afterPath="$PROJECT_DIR$/mini_projet.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/HEG_DB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/75a9b521-6a4a-4c88-9641-4c7d613a0f37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/75a9b521-6a4a-4c88-9641-4c7d613a0f37.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d6817d41-eb06-4a9b-9f10-b51cf626c6dd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d6817d41-eb06-4a9b-9f10-b51cf626c6dd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenDatabaseViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Rebasing main",
     "last_opened_file_path": "/home/sgonzalez/kDrive/Cours/62-21 Gestion des données/Exercises/HEG_DB",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },

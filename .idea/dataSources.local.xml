@@ -1,41 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="dataSourceStorageLocal" created-in="DB-241.15989.49">
-    <data-source name="@localhost" uuid="d6817d41-eb06-4a9b-9f10-b51cf626c6dd">
-      <database-info product="Oracle" version="Oracle Database 23c Free Release 23.0.0.0.0 - Develop, Learn, and Run for Free&#10;Version 23.3.0.23.09" jdbc-version="4.3" driver-name="Oracle JDBC driver" driver-version="21.5.0.0.0" dbms="ORACLE" exact-version="23.0.0.0.0" exact-driver-version="21.5">
-        <extra-name-characters>$#</extra-name-characters>
-        <identifier-quote-string>&quot;</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
-      <secret-storage>master_key</secret-storage>
-      <user-name>system</user-name>
-      <schema-mapping>
-        <introspection-scope>
-          <node kind="schema">
-            <name qname="@" />
-            <name qname="PUBLIC" />
-          </node>
-        </introspection-scope>
-      </schema-mapping>
-      <load-sources>user_and_system_sources</load-sources>
+  <component name="dataSourceStorageLocal" created-in="DB-241.17011.41">
+    <data-source name="@localhost" uuid="51858979-4495-4f90-aab7-b22a0433c574">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="ORACLE" />
+      <schema-mapping />
     </data-source>
-    <data-source name="CC24 local" uuid="75a9b521-6a4a-4c88-9641-4c7d613a0f37">
-      <database-info product="Oracle" version="Oracle Database 23c Free Release 23.0.0.0.0 - Develop, Learn, and Run for Free&#10;Version 23.3.0.23.09" jdbc-version="4.3" driver-name="Oracle JDBC driver" driver-version="21.5.0.0.0" dbms="ORACLE" exact-version="23.0.0.0.0" exact-driver-version="21.5">
-        <extra-name-characters>$#</extra-name-characters>
-        <identifier-quote-string>&quot;</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
-      <secret-storage>master_key</secret-storage>
-      <user-name>cc24</user-name>
-      <schema-mapping>
-        <introspection-scope>
-          <node kind="schema">
-            <name qname="@" />
-            <name qname="PUBLIC" />
-          </node>
-        </introspection-scope>
-      </schema-mapping>
-      <load-sources>user_and_system_sources</load-sources>
+    <data-source name="@localhost Cours" uuid="84c08b0c-7d97-4cb4-a850-fe19212fac9e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="ORACLE" />
+      <schema-mapping />
     </data-source>
   </component>
 </project>
